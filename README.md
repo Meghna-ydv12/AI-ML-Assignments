@@ -1,3 +1,1 @@
-Student-Meghna
-Enrollment-11101172024
-College-IGDTUW
+AI-ML ASSIGNMENT
